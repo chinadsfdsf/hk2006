@@ -12,8 +12,8 @@ categories:
 ---
 
 {{< siteParamsRecentPostsTitle >}} 
-
 {{< my2buildtime "buildtime 创建时间" >}}
+{{< my2linktextonly link="/time/001/" cn=" 全球不同地区时间 " >}}
 
 {{< mydiv4o link="https://hk01.chinadsf.org/"     text="hk01     2020年1月之前的新聞">}}
 {{< mydiv4o link="https://hk2001.chinadsf.org/"   text="hk2001   2020年1月的新聞">}}
@@ -28,9 +28,9 @@ categories:
 {{< mybrline1 color="blue" >}}
 
 {{< mydiv4o link="https://hk2006.chinadsf.org/"   text="hk2006   2020年6月的新聞 " bg="lightcoral" >}}
-{{< mydiv4o link="https://hk2006a.chinadsf.org/"  text="hk2006a  2020年5月的新聞a" >}}
-{{< mydiv4o link="https://hk2006b.chinadsf.org/"  text="hk2006b  2020年5月的新聞b" >}}
-{{< mydiv4o link="https://hk2006c.chinadsf.org/"  text="hk2006c  2020年5月的新聞c" >}}
+{{< mydiv4o link="https://hk2006a.chinadsf.org/"  text="hk2006a  2020年6月的新聞a" >}}
+{{< mydiv4o link="https://hk2006b.chinadsf.org/"  text="hk2006b  2020年6月的新聞b" >}}
+{{< mydiv4o link="https://hk2006c.chinadsf.org/"  text="hk2006c  2020年6月的新聞c" >}}
 
 {{< mybrline1 color="blue" >}}
 
